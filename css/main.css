@@ -18,12 +18,13 @@ div {
   border: 3px solid #000;
   padding: .5rem;
   text-decoration: none;
+  font-size: 1.125rem;
+  display:inline-block;
 }
 
 .btn-primary {
   background-color: #333;
   color: #fff;
-  font-size: 1.125rem;
   border-color: #333;
 }
 
@@ -35,7 +36,6 @@ div {
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
-  font-size: 1.125rem;
   border-color: #ccc;
 }
 
@@ -48,7 +48,6 @@ div {
   background-color: #fff;
   color: #000;
   border-color: #000;
-  font-size: 1.125rem;
 }
 
 .btn-ghost:hover {
@@ -60,7 +59,6 @@ div {
 .btn-warning {
   background-color: #f33;
   color: #fff;
-  font-size: 1.125rem;
   border-color: #f33;
 }
 
@@ -69,10 +67,10 @@ div {
   border-color: #933;
 }
 
-.small {
+.btn-small {
   font-size: .875rem;
 }
 
-.big {
+.btn-big {
   font-size: 1.5rem;
 }
