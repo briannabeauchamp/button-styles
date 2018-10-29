@@ -20,51 +20,51 @@ div {
   text-decoration: none;
 }
 
-.primary {
+.btn-primary {
   background-color: #333;
   color: #fff;
   font-size: 1.125rem;
   border-color: #333;
 }
 
-.primary:hover {
+.btn-primary:hover {
   background-color: #000;
   border-color: #000;
 }
 
-.subtle {
+.btn-subtle {
   background-color: #ccc;
   color: #fff;
   font-size: 1.125rem;
   border-color: #ccc;
 }
 
-.subtle:hover {
+.btn-subtle:hover {
   background-color: #666;
   border-color: #666;
 }
 
-.ghost {
+.btn-ghost {
   background-color: #fff;
   color: #000;
   border-color: #000;
   font-size: 1.125rem;
 }
 
-.ghost:hover {
+.btn-ghost:hover {
   background-color: #666;
   border-color: #666;
   color: #fff;
 }
 
-.warning {
+.btn-warning {
   background-color: #f33;
   color: #fff;
   font-size: 1.125rem;
   border-color: #f33;
 }
 
-.warning:hover {
+.btn-warning:hover {
   background-color: #933;
   border-color: #933;
 }
