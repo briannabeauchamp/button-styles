@@ -66,8 +66,10 @@ div {
 
 .btn-small {
   font-size: .875rem;
+  padding: .3em;
 }
 
 .btn-big {
   font-size: 1.5rem;
+  padding: .4em;
 }
